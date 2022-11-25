@@ -1,0 +1,124 @@
+{
+    "games": [
+        {
+            "name": "Guilty Gear Xrd Rev 2",
+            "code": "GGXRD",
+            "characters": [
+                {
+                    "name": "Kum_Haehyun",
+                    "code": "KUM"
+                },
+                {
+                    "name": "Elphelt_Valentine",
+                    "code": "ELP"
+                },
+                {
+                    "name": "Ky_Kiske",
+                    "code": "KY"
+                },
+                {
+                    "name": "Sol_Badguy",
+                    "code": "SOL"
+                },
+                {
+                    "name": "Ramlethal_Valentine",
+                    "code": "RAM"
+                },
+                {
+                    "name": "Raven",
+                    "code": "RVN"
+                },
+                {
+                    "name": "Sin_Kiske",
+                    "code": "SIN"
+                },
+                {
+                    "name": "Johnny",
+                    "code": "JOH"
+                },
+                {
+                    "name": "May",
+                    "code": "MAY"
+                },
+                {
+                    "name": "Leo_Whitefang",
+                    "code": "LEO"
+                },
+                {
+                    "name": "Chipp_Zanuff",
+                    "code": "CHI"
+                },
+                {
+                    "name": "Millia_Rage",
+                    "code": "MIL"
+                },
+                {
+                    "name": "Baiken",
+                    "code": "BAI"
+                },
+                {
+                    "name": "Answer",
+                    "code": "ANS"
+                },
+                {
+                    "name": "Zato-1",
+                    "code": "ZAT"
+                },
+                {
+                    "name": "Potemkin",
+                    "code": "POT"
+                },
+                {
+                    "name": "I-No",
+                    "code": "INO"
+                },
+                {
+                    "name": "Slayer",
+                    "code": "SLA"
+                },
+                {
+                    "name": "Venom",
+                    "code": "VEN"
+                },
+                {
+                    "name": "Axl_Lowe",
+                    "code": "AXL"
+                },
+                {
+                    "name": "Dizzy",
+                    "code": "DIZ"
+                },
+                {
+                    "name": "Faust",
+                    "code": "FAU"
+                },
+                {
+                    "name": "Bedman",
+                    "code": "BED"
+                },
+                {
+                    "name": "Jack-O",
+                    "code": "JAC"
+                },
+                {
+                    "name": "Kuradoberi_Jam",
+                    "code": "JAM"
+                }
+            ]
+        },
+        {
+            "name": "Guilty Gear Strive",
+            "code": "GGST",
+            "characters": [
+                {
+                    "name": "Potemkin",
+                    "code": "POT"
+                },
+                {
+                    "name": "Millia",
+                    "code": "MIL"
+                }
+            ]
+        }
+    ]
+}

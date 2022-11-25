@@ -1,0 +1,127 @@
+{
+  "todo": [
+    {
+      "assignedTo": {
+        "name": "renosoft"
+      },
+      "category": "Frame Data",
+      "creation_time": "2022-08-12T15:14:52.161Z",
+      "description": {
+        "content": "Add hitbox functionality",
+        "mime": "text/markdown"
+      },
+      "id": "3",
+      "references": [],
+      "title": "Implement Hitboxes pictures"
+    }
+  ],
+  "in-progress": [],
+  "testing": [],
+  "done": [
+    {
+      "assignedTo": {
+        "name": "renosoft"
+      },
+      "creation_time": "2022-08-13T23:20:24.778Z",
+      "details": {
+        "content": "Testament\nJackO\nMillia\nNagoriyuki\nChip\nSol\nKy\nMay\nZato\nI-no\nHappy Chaos\nBaiken\nAnji\nLeo\nFaust\nAxl\nPotemkin\nRam\nGiovanna\nGoldlewis\nBridget",
+        "mime": "text/markdown"
+      },
+      "id": "13",
+      "references": [],
+      "title": "Add data for all GGST Chars"
+    },
+    {
+      "assignedTo": {
+        "name": "renosoft"
+      },
+      "creation_time": "2022-08-13T22:36:10.811Z",
+      "id": "12",
+      "references": [],
+      "title": "Add error messages to FD command"
+    },
+    {
+      "assignedTo": {
+        "name": "renosoft"
+      },
+      "category": "Frame Data",
+      "creation_time": "2022-08-12T15:21:22.966Z",
+      "description": {
+        "content": "Add InteractionType to the input arguments of the command",
+        "mime": "text/markdown"
+      },
+      "id": "5",
+      "references": [],
+      "title": "Add InteractionType to the input arguments of the command"
+    },
+    {
+      "assignedTo": {
+        "name": "renosoft"
+      },
+      "creation_time": "2022-08-12T23:49:34.715Z",
+      "description": {
+        "content": "Allow the system to discover the games/characters based on existing files.",
+        "mime": "text/markdown"
+      },
+      "id": "10",
+      "references": [],
+      "title": "Enable Dynamic loading of FrameData"
+    },
+    {
+      "assignedTo": {
+        "name": "renosoft"
+      },
+      "category": "Frame Data",
+      "creation_time": "2022-08-12T15:10:12.069Z",
+      "description": {
+        "content": "Implement Autocomplete functionality for character input for the fd command.\nShould autocomplete characters that match the starting string",
+        "mime": "text/markdown"
+      },
+      "details": {
+        "content": "Implement Autocomplete functionality for character input for the fd command.\nShould autocomplete characters that match the starting string",
+        "mime": "text/markdown"
+      },
+      "id": "1",
+      "references": [],
+      "title": "Implement Autocomplete functionality for character input"
+    },
+    {
+      "assignedTo": {
+        "name": "renosoft"
+      },
+      "category": "Frame Data",
+      "creation_time": "2022-08-12T15:11:37.991Z",
+      "description": {
+        "content": "Implement Autocomplete functionality for move input for the fd command.\nShould autocomplete characters that match the starting string",
+        "mime": "text/markdown"
+      },
+      "id": "2",
+      "references": [],
+      "title": "Implement Autocomplete functionality for move input"
+    },
+    {
+      "assignedTo": {
+        "name": "renosoft"
+      },
+      "category": "Frame Data",
+      "creation_time": "2022-08-12T15:34:21.224Z",
+      "description": {
+        "content": "Implement log level configuration",
+        "mime": "text/markdown"
+      },
+      "id": "6",
+      "references": [],
+      "title": "Implement log level configuration"
+    },
+    {
+      "assignedTo": {
+        "name": "renosoft"
+      },
+      "category": "Frame Data",
+      "creation_time": "2022-08-12T17:32:52.617Z",
+      "id": "9",
+      "references": [],
+      "title": "Replace console.log with RHLogger"
+    }
+  ]
+}

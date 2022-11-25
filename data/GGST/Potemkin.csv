@@ -1,0 +1,33 @@
+name|picture|input|damage|guard|startup|active|recovery|onBlock|onHit|riscGain|riscLoss|level|counter|invul|prorate
+5P|https://dustloop.com/wiki/images/thumb/7/71/GGST_Potemkin_5P.png/210px-GGST_Potemkin_5P.png|5P|30|All|5|5|6|1|4|1000|1500|1|Small||80%
+5K|https://dustloop.com/wiki/images/thumb/b/b2/GGST_Potemkin_5K.png/210px-GGST_Potemkin_5K.png|5K|36|Low|10|9|9|-4|-1|1125|1000|2|Small||70%
+c.S|https://dustloop.com/wiki/images/thumb/5/53/GGST_Potemkin_c.S.png/210px-GGST_Potemkin_c.S.png|c.S|45|All|8|4|11|4|7|2500|1000|4|Mid||100%
+f.S|https://dustloop.com/wiki/images/thumb/6/61/GGST_Potemkin_f.S.png/210px-GGST_Potemkin_f.S.png|f.S|40|All|12|7|18|-8|-5|2000|1000|3|Mid||90%
+5H|https://dustloop.com/wiki/images/thumb/6/61/GGST_Potemkin_f.S.png/210px-GGST_Potemkin_f.S.png|5H|60|All|16|5|25|-11|-8|2500|1000|4|Large||100%
+5D|https://dustloop.com/wiki/images/thumb/d/d3/GGST_Potemkin_5D.png/210px-GGST_Potemkin_5D.png|5D|50|High|20~27|8|21|-15|0|1125|3000|2|Mid||80%
+5[D]|https://dustloop.com/wiki/images/thumb/d/d3/GGST_Potemkin_5D.png/210px-GGST_Potemkin_5D.png|5[D]|62|High|28|8|21|-10|SKD +38|1875|1500|4|Mid||100%
+2P|https://dustloop.com/wiki/images/thumb/8/8b/GGST_Potemkin_2P.png/210px-GGST_Potemkin_2P.png|2P|26|All|8|4|9|-1|2|1000|1500|1|Small||80%
+2K|https://dustloop.com/wiki/images/thumb/a/a5/GGST_Potemkin_2K.png/210px-GGST_Potemkin_2K.png|2K|30|Low|10|4|14|-4|-1|1125|1000|2|Small||70%
+2S|https://dustloop.com/wiki/images/thumb/6/6b/GGST_Potemkin_2S.png/210px-GGST_Potemkin_2S.png|2S|45|All|14|3|18|-4|-1|2000|1000|3|Mid||90%
+2H|https://dustloop.com/wiki/images/thumb/8/87/GGST_Potemkin_2H.png/156px-GGST_Potemkin_2H.png|2H|55|All|13|5|35|-21|SKD (+27)|2500|1000|4|Large||100%
+2D|https://dustloop.com/wiki/images/thumb/9/99/GGST_Potemkin_2D.png/210px-GGST_Potemkin_2D.png|2D|40|Low|13|7|21|-11|KD|1500|1000|3|Large||90%
+6P|https://dustloop.com/wiki/images/thumb/e/e0/GGST_Potemkin_6P.png/183px-GGST_Potemkin_6P.png|6P|42|All|11|7|25|-15|SKD (+29)|2000|1000|3|Mid|"1 ~ 4F Upper Body
+5 ~ 17F Above Knees"|90%
+6K|https://dustloop.com/wiki/images/thumb/3/35/GGST_Potemkin_6K.png/210px-GGST_Potemkin_6K.png|6K|45|All|22|5|18|-6|-3|2000|1000|3|Mid||100%
+6H|https://dustloop.com/wiki/images/thumb/a/a3/GGST_Potemkin_6H.png/210px-GGST_Potemkin_6H.png|6H|90|All|23|5|29|-15|SKD (+25)|2500|1000|4|Large||100%
+j.P|https://dustloop.com/wiki/images/thumb/e/e5/GGST_Potemkin_j.P.png/210px-GGST_Potemkin_j.P.png|j.P|30|High|7|6|6|||375|1000|0|Small||80%
+j.K|https://dustloop.com/wiki/images/thumb/4/45/GGST_Potemkin_j.K.png/210px-GGST_Potemkin_j.K.png|j.K|36|High|10|6|15|||750|1000|1|Small||80%
+j.S|https://dustloop.com/wiki/images/thumb/c/cf/GGST_Potemkin_j.S.png/156px-GGST_Potemkin_j.S.png|j.S|45|High|13|5|23|||1500|1000|3|Mid||80%
+j.H|https://dustloop.com/wiki/images/thumb/1/14/GGST_Potemkin_j.H.png/210px-GGST_Potemkin_j.H.png|j.H|55|High|12|4|16|||1875|1000|4|Mid||80%
+j.D|https://dustloop.com/wiki/images/thumb/f/f3/GGST_Potemkin_j.D.png/210px-GGST_Potemkin_j.D.png|j.D|50|All|13|Until Landing|9 After landing|||2000|1000|3|Mid||80%
+Hammer Fall|https://dustloop.com/wiki/images/thumb/3/37/GGST_Potemkin_Hammer_Fall.png/210px-GGST_Potemkin_Hammer_Fall.png|[4]6H|58|All|18~62|2f|26|-9|SKD (+22)|2500|1000||Mid||80%
+Hammer Fall Break|https://dustloop.com/wiki/images/thumb/9/9e/GGST_Potemkin_Air_Throw.png/210px-GGST_Potemkin_Air_Throw.png|[4]6H P|N/A|N/A|||27||||||||
+Potemkin Buster|https://dustloop.com/wiki/images/thumb/a/ab/GGST_Potemkin_Potemkin_Buster.png/210px-GGST_Potemkin_Potemkin_Buster.png|632146P|175|Ground Throw|5|4|37||||2500|||1 ~ 8F Throw|50%
+Heat Knuckle|https://dustloop.com/wiki/images/thumb/d/d0/GGST_Potemkin_Heat_Knuckle_1.png/206px-GGST_Potemkin_Heat_Knuckle_1.png|623H|"0.8×7.60"|Air Guard Crush|12|4|18|+10~+1|KD/Wall Break|3750|2500||Very Small||50%
+Mega Fist|https://dustloop.com/wiki/images/thumb/9/9e/GGST_Potemkin_Mega_Fist.png/197px-GGST_Potemkin_Mega_Fist.png|236P|50|High|25|7|16|-6|-2|1500|1000|3|Mid||80%
+Back Mega Fist|https://dustloop.com/wiki/images/thumb/9/9e/GGST_Potemkin_Mega_Fist.png/197px-GGST_Potemkin_Mega_Fist.png|214P|50|High|25|7|6|4|8|1500|1000|3|Mid||80%
+Kara Mega Fist|https://dustloop.com/wiki/images/thumb/9/9e/GGST_Potemkin_Mega_Fist.png/197px-GGST_Potemkin_Mega_Fist.png|2146K~P|80|High|26-27|7|12|-2|2|1500|1000|3|Mid||80%
+Slide Head|https://dustloop.com/wiki/images/thumb/9/90/GGST_Potemkin_Slide_Head.png/210px-GGST_Potemkin_Slide_Head.png|236S|0|Low (Guard Crush)|29|2|28|0|KD|375|1000|4|Very Small||80%
+F.D.B.|https://dustloop.com/wiki/images/thumb/c/cf/GGST_Potemkin_FDB.png/210px-GGST_Potemkin_FDB.png|63214S|55 [75]|All|21~38 [38]|3|20|-6|KD|2000|1000|3|Mid|4 ~ [20~37F] Reflect|100%
+Reflect Projectile|https://dustloop.com/wiki/images/thumb/f/f2/GGST_Potemkin_FDB_Reflect.png/210px-GGST_Potemkin_FDB_Reflect.png|Reflect Projectile|50|All|1|||11|SKD (+46)|500|1000|3|Very Small||80%
+Garuda Impact|https://dustloop.com/wiki/images/thumb/1/1b/GGST_Potemkin_Garuda_Impact.png/210px-GGST_Potemkin_Garuda_Impact.png|214H|63|All (Guard Crush)|28|11|24|19|+17~+35|2500|2000||Large||100%
