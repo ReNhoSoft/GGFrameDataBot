@@ -13,7 +13,10 @@ await importx (`${folder}/commands/**.js`);
 //Initialize bot
 const bot = new DiscordBot();
 await bot.init();
-await bot.registerCommands();
+
+// NOTE - Uncomment one of these only when modifying or creating new commands
+//await bot.registerCommands();
+//await bot.registerGlobalCommands();
 
 
 

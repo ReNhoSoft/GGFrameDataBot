@@ -33,9 +33,12 @@ export class DiscordBot {
         return;
     }
 
-    async registerCommands() {
+    async registerGlobalCommands() {
         await this.register.registerGlobalCommands(DiscordBot.CommandRegistry.commandArray);
-        //await this.register.registerCommandsForGuild(DiscordBot.CommandRegistry.commandArray, "987122838811078667");
+    }
+
+    async registerCommands() {
+        await this.register.registerCommandsForGuild(DiscordBot.CommandRegistry.commandArray, "987122838811078667");
     }
 
     async messageHandler(event: any) {
