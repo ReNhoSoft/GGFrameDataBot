@@ -84,7 +84,7 @@
   },
   {
     "input": "5P",
-    "name": "",
+    "name": "5P",
     "image": "https://www.dustloop.com/wiki/images/thumb/a/a8/GGXRD_Johnny_5P.png/161px-GGXRD_Johnny_5P.png",
     "damage": 12,
     "riscp": 6,
@@ -102,7 +102,7 @@
   },
   {
     "input": "5K",
-    "name": "",
+    "name": "5K",
     "image": "https://www.dustloop.com/wiki/images/thumb/2/26/GGXRD_Johnny_5K.png/210px-GGXRD_Johnny_5K.png",
     "damage": 16,
     "riscp": 6,
@@ -120,7 +120,7 @@
   },
   {
     "input": "c.S",
-    "name": "",
+    "name": "c.S",
     "image": "https://www.dustloop.com/wiki/images/thumb/5/5b/GGXRD_Johnny_c.S.png/210px-GGXRD_Johnny_c.S.png",
     "damage": 26,
     "riscp": 10,
@@ -138,7 +138,7 @@
   },
   {
     "input": "f.S",
-    "name": "",
+    "name": "f.S",
     "image": "https://www.dustloop.com/wiki/images/thumb/a/a1/GGXRD_Johnny_f.S.png/210px-GGXRD_Johnny_f.S.png",
     "damage": 34,
     "riscp": 14,
@@ -156,7 +156,7 @@
   },
   {
     "input": "5H",
-    "name": "",
+    "name": "5H",
     "image": "https://www.dustloop.com/wiki/images/thumb/4/49/GGXRD_Johnny_5H.png/210px-GGXRD_Johnny_5H.png",
     "damage": 38,
     "riscp": 20,
@@ -174,7 +174,7 @@
   },
   {
     "input": "5D",
-    "name": "",
+    "name": "5D",
     "image": "https://www.dustloop.com/wiki/images/thumb/b/bb/GGXRD_Johnny_5D.png/210px-GGXRD_Johnny_5D.png",
     "damage": 22,
     "riscp": 10,
@@ -192,7 +192,7 @@
   },
   {
     "input": "6P",
-    "name": "",
+    "name": "6P",
     "image": "https://www.dustloop.com/wiki/images/thumb/d/da/GGXRD_Johnny_6P.png/210px-GGXRD_Johnny_6P.png",
     "damage": 25,
     "riscp": 10,
@@ -210,7 +210,7 @@
   },
   {
     "input": "6K",
-    "name": "",
+    "name": "6K",
     "image": "https://www.dustloop.com/wiki/images/thumb/b/bc/GGXRD_Johnny_6K.png/128px-GGXRD_Johnny_6K.png",
     "damage": 30,
     "riscp": 10,
@@ -228,7 +228,7 @@
   },
   {
     "input": "6H",
-    "name": "",
+    "name": "6K",
     "image": "https://www.dustloop.com/wiki/images/thumb/0/08/GGXRD_Johnny_6H.png/210px-GGXRD_Johnny_6H.png",
     "damage": 52,
     "riscp": 20,
@@ -246,7 +246,7 @@
   },
   {
     "input": "2P",
-    "name": "",
+    "name": "2P",
     "image": "https://www.dustloop.com/wiki/images/thumb/5/5d/GGXRD_Johnny_2P.png/210px-GGXRD_Johnny_2P.png",
     "damage": 10,
     "riscp": 3,
@@ -264,7 +264,7 @@
   },
   {
     "input": "2K",
-    "name": "",
+    "name": "2K",
     "image": "https://www.dustloop.com/wiki/images/thumb/0/0b/GGXRD_Johnny_2K.png/210px-GGXRD_Johnny_2K.png",
     "damage": 12,
     "riscp": 3,
@@ -282,7 +282,7 @@
   },
   {
     "input": "2S",
-    "name": "",
+    "name": "2S",
     "image": "https://www.dustloop.com/wiki/images/thumb/d/de/GGXRD_Johnny_2S.png/210px-GGXRD_Johnny_2S.png",
     "damage": 30,
     "riscp": 10,
@@ -300,7 +300,7 @@
   },
   {
     "input": "2H",
-    "name": "",
+    "name": "2H",
     "image": "https://www.dustloop.com/wiki/images/thumb/9/93/GGXRD_Johnny_2H.png/207px-GGXRD_Johnny_2H.png",
     "damage": 42,
     "riscp": 20,
@@ -318,7 +318,7 @@
   },
   {
     "input": "2D",
-    "name": "",
+    "name": "2D",
     "image": "https://www.dustloop.com/wiki/images/thumb/1/14/GGXRD_Johnny_2D.png/210px-GGXRD_Johnny_2D.png",
     "damage": "30, 20",
     "riscp": 14,
@@ -336,7 +336,7 @@
   },
   {
     "input": "j.P",
-    "name": "",
+    "name": "j.P",
     "image": "https://www.dustloop.com/wiki/images/thumb/6/69/GGXRD_Johnny_j.P.png/210px-GGXRD_Johnny_j.P.png",
     "damage": 12,
     "riscp": 3,
@@ -354,7 +354,7 @@
   },
   {
     "input": "j.K",
-    "name": "",
+    "name": "j.K",
     "image": "https://www.dustloop.com/wiki/images/thumb/c/c2/GGXRD_Johnny_j.K.png/210px-GGXRD_Johnny_j.K.png",
     "damage": 20,
     "riscp": 6,
@@ -372,7 +372,7 @@
   },
   {
     "input": "j.S",
-    "name": "",
+    "name": "j.S",
     "image": "https://www.dustloop.com/wiki/images/thumb/1/11/GGXRD_Johnny_j.S.png/210px-GGXRD_Johnny_j.S.png",
     "damage": 32,
     "riscp": 10,
@@ -390,7 +390,7 @@
   },
   {
     "input": "j.H",
-    "name": "",
+    "name": "j.H",
     "image": "https://www.dustloop.com/wiki/images/thumb/d/d6/GGXRD_Johnny_j.H.png/192px-GGXRD_Johnny_j.H.png",
     "damage": 40,
     "riscp": 10,
@@ -408,7 +408,7 @@
   },
   {
     "input": "j.D",
-    "name": "",
+    "name": "j.D",
     "image": "https://www.dustloop.com/wiki/images/thumb/4/49/GGXRD_Johnny_j.D.png/210px-GGXRD_Johnny_j.D.png",
     "damage": 36,
     "riscp": 10,
